@@ -1,0 +1,22 @@
+<?xml version = '1.0'?>
+<savegame1>
+    <config>
+        <screen>
+            <width>960</width>
+            <height>1280</height>
+        </screen>
+    </config>
+    <stats>
+        <kills>0</kills>
+        <round>0</round>
+        <health>0</health>
+        <level>0</level>
+        <character>"vampire"</character>
+        <numEnemies>0</numEnemies>
+    </stats>
+    <locations>
+        <playerX>0</playerX>
+        <playerY>0</playerY>
+        <playerDir>1</playerDir>
+    </locations>
+</savegame1>

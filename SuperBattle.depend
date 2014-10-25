@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1413705577 source:c:\users\jack\programs\superbattle\main.cpp
+	"objects.h"
+	<iostream>
+
+1412537028 source:c:\users\jack\programs\superbattle\objects.cpp
+	"objects.h"
+
+1412538361 c:\users\jack\programs\superbattle\objects.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<vector>
+	<cmath>
+	<string>
+
